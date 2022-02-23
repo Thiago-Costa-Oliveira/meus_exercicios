@@ -1,0 +1,35 @@
+@charset "UTF-08";
+
+.corfundo {
+	background-image: url(imagens/fotos/fundo-2.png);
+
+}
+.logo {
+	padding-left:250px;
+	padding-right:250px;
+    
+}
+
+.home {
+	text-align:right; 
+	padding-left:250px;
+	padding-right:170px;
+
+}
+.capa {
+	text-align: justify;
+	padding-top: 17px;
+	padding-right: 250px;
+}
+.paragrafo {
+	text-indent: 30px;
+	padding-right: 250px;
+	letter-spacing: 1px;
+	font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.direitoreservado {
+    padding-left: 250px;
+    padding-right:250px;
+}
